@@ -17,3 +17,7 @@ nav ul {
 .wrapper {
   backgroun-color: #eee8d5;
 }
+
+wrapper > .dfn {
+  background-color:#b58900;
+}
