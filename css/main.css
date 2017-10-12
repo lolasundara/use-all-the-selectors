@@ -45,3 +45,11 @@ main .wrapper {
 .dfn + strong {
   color: #fff;
 }
+
+#first {
+  color: #719e47;
+}
+
+#last {
+  color: #2aa198;
+}
