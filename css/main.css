@@ -15,11 +15,11 @@ h1 {
 }
 
 .wrapper {
-  background-color:#eee8d5 ;
+  background-color: #eee8d5;
 }
 
 wrapper > .dfn {
-  background-color:#b58900 ;
+  background-color: #b58900;
 }
 
 .dfn > strong {
@@ -27,11 +27,11 @@ wrapper > .dfn {
 }
 
 ul li:nth-child(3) {
-  background-color:#719e07;
+  background-color:# 719e07;
 }
 
 ul li:nth-child(4) {
-  background-color:#719e07;
+  background-color:# 719e07;
 }
 
 ul li:nth-child(5) {
