@@ -46,6 +46,10 @@ main .wrapper {
   color: #fff;
 }
 
+a {
+  background-color: #719e07;
+}
+
 ol li:first-child {
   color: #719e47;
 }
